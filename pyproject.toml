@@ -1,0 +1,8 @@
+[project]
+name = "sc2assistant"
+version = "0.1.0"
+description = "Python assistant for StarCraft II ranked 1v1"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
